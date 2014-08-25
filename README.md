@@ -15,7 +15,7 @@ The goal of Sudoku is to fill in a 9x9 grid with digits so that each column, row
 Repository at <https://github.com/junhostudio/sudoku-myth-2048-open-source>.
 
 ## Sample Apps
-[![Get it on Google Play](http://www.android.com/images/brand/get_it_on_play_logo_small.png)](https://play.google.com/store/apps/details?id=com.junho.sudokumyth)
+[![Get it on Amzone Store](http://cdn1.blackberryempire.com/wp-content/uploads/2014/06/Amazon-App-Store.jpg)](http://www.amazon.co.uk/Junho-Tappy-Copters/dp/B00MZZKP7G/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1408957978&sr=1-1&keywords=tappy+copters)
 
 ##Keywords
 Sudoku, sudoku, Puzzle, puzzle, 2048
